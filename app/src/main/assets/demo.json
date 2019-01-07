@@ -1,30 +1,67 @@
 {
   "Bank": [
     {
-      "BankName": "State Bank Of India",
+      "BankName": "SouthEast Bank",
       "ATM": [
         {
-          "atmname": "State Bank Of India ATM",
-          "address": "SVNIT Campus, Ichchanath, Surat",
-          "lat": "21.1671514",
-          "lng": "72.7860439"
+          "atmname": "SouthEast Bank ATM (JCU)",
+          "address": "149, Sims Drive, Singapore",
+          "lat": "1.3155669",
+          "lng": "103.8763910"
         },
         {
-          "atmname": "State Bank Of India ATM",
-          "address": "SVNIT Campus, Ichchanath, Surat",
-          "lat": "21.1953699",
-          "lng": "72.8188852"
-        }
-      ]
-    },
-    {
-      "BankName": "Yes Bank",
-      "ATM": [
+          "atmname": "SouthEast Bank ATM (Aljunied)",
+          "address": "3, Geylang East Avenue 1, Singapore",
+          "lat": "1.3162319",
+          "lng": "103.8844496"
+        },
         {
-          "atmname": "Kotak Mahindra Bank ATM",
-          "address": "K G Point, Ghod Dod Road, Near Ganga Palace, Surat",
-          "lat": "21.1740846",
-          "lng": "72.7991785"
+          "atmname": "SouthEast Bank ATM (Kallang)",
+          "address": "2D, Upper Boon Keng Road,  Singapore",
+          "lat": "1.3130678",
+          "lng": "103.8723904"
+        },
+        {
+          "atmname": "SouthEast Bank ATM (City Hall)",
+          "address": "111, North Bridge Road,  Singapore",
+          "lat": "1.2924255",
+          "lng": "103.8508630"
+        },
+        {
+          "atmname": "SouthEast Bank ATM (Raffles Place)",
+          "address": "3, Phillip Street,  Singapore",
+          "lat": "1.2848260",
+          "lng": "103.8499779"
+        },
+        {
+          "atmname": "SouthEast Bank ATM (Tanjong Pagar)",
+          "address": "10, Anson Road,  Singapore",
+          "lat": "1.2759179",
+          "lng": "103.8459653"
+        },
+        {
+          "atmname": "SouthEast Bank ATM (Redhill)",
+          "address": "75C, Redhill Road,  Singapore",
+          "lat": "1.2891272",
+          "lng": "103.8162625"
+        },
+        {
+          "atmname": "SouthEast Bank ATM (Clementi)",
+          "address": "3151, Commonwealth Avenue West,  Singapore",
+          "lat": "1.3143656",
+          "lng": "103.7651181"
+        },
+        {
+          "atmname": "SouthEast Bank ATM (Jurong East)",
+          "address": "2, Jurong East Central 1,  Singapore",
+          "lat": "1.3333231",
+          "lng": "103.7401871"
+        },
+        {
+          "atmname": "SouthEast Bank ATM (Boon Lay)",
+          "address": "1, Jurong West Central 2,  Singapore",
+          "lat": "1.3394527",
+          "lng": "103.7066850"
         }
       ]
     }
