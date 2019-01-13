@@ -7,7 +7,7 @@ String atmname,address,lat,lng;
     public String getAtmname() {
         return atmname;
     }
-
+                         
     public void setAtmname(String atmname) {
         this.atmname = atmname;
     }
